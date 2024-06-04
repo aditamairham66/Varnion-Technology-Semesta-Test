@@ -10,7 +10,7 @@
 Clone repository ini ke direktori lokal kamu menggunakan perintah berikut:
 
 ```bash
-git clone https://github.com/aditamairham66/prakasa-test.git
+git clone https://github.com/aditamairham66/Varnion-Technology-Semesta-Test.git
 cd prakasa-test
 ```
 
